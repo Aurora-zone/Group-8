@@ -1,3 +1,7 @@
+学院：2017级物理科学与技术学院         学号：320170936691   姓名：谢浩
+
+
+
 用此方块判断本月是自己出生的第几个月，在year后输入今年的年份，在month输入本月是今年的第几个月，在yearofbirth输入自己的出生年份，在monthofbirth输入自己的出生月份，然后得到结果。
 
 # **blockly模块                      **
@@ -6,12 +10,7 @@
 
 # ![](/assets/图片2.png)![](/assets/图片3.png)![](/assets/图片4.png)![](/assets/图片5.png)**XML代码**
 
-  
-
-
-
-
-&lt;xml xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;xml xmlns="[http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt);
 
 &lt;variables&gt;
 
@@ -370,6 +369,4 @@
 &lt;/block&gt;
 
 &lt;/xml&gt;
-
-
 
