@@ -1,0 +1,10 @@
+#小组ppt（第八小组）
+---
+![](ppt_picture/01.png)  
+![](ppt_picture/02.png)  
+![](ppt_picture/03.png)  
+![](ppt_picture/04.png)  
+![](ppt_picture/05.png)  
+![](ppt_picture/06.png)  
+![](ppt_picture/07.png)  
+![](ppt_picture/08.png)  
