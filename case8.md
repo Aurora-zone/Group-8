@@ -1,5 +1,3 @@
-
-
 # **个人案例**
 
 **物理科学与技术学院 2017级 320170936801 徐顺豪**
@@ -12,15 +10,15 @@ S2\(t\)=A2cos\(ωt+φ2\),
 
 求合成频率 S\(t\)=Acos\(ωt+φ\)
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtml1\01\clip_image002.jpg)
+![](/assets/无标题2.png)
 
 当φ1=2 φ2= 2 A1=2 A2=2 ω=2时
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtml1\01\clip_image004.jpg)
+![](/assets/无标题.png)
 
 XML代码
 
-&lt;xml xmlns="[http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt);
+&lt;xml xmlns="\[[http://www.w3.org/1999/xhtml"&gt\]\(http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt]%28http://www.w3.org/1999/xhtml"&gt)\);
 
 &lt;variables&gt;
 
