@@ -16,5 +16,4 @@
 * [Report5](Report5_xuguopeng.md)
 * [Report8](report8.md)
 * [第三部分、小组ppt](ppt.md)
-* [Case8](case8.md)
 
