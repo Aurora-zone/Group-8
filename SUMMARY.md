@@ -16,5 +16,5 @@
 * [Report4](Report4_zhangyu.md)
 * [Report5](Report5_xuguopeng.md)
 * [Report6](report6.md)
-* [Report7](case7.md)
+* [Report7](report7.md)
 
